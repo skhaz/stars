@@ -29,6 +29,7 @@
 
 ## C 
 
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [moonlight-stream/moonlight-common-c](https://github.com/moonlight-stream/moonlight-common-c) - Core implementation of Nvidia's GameStream protocol
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
@@ -141,7 +142,7 @@
 - [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
 - [mesozoic/gmail-yaml-filters](https://github.com/mesozoic/gmail-yaml-filters) - A quick tool for generating Gmail filters from YAML rules.
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [P403n1x87/austin-tui](https://github.com/P403n1x87/austin-tui) - The top-like text-based user interface for Austin
 - [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent) - Persistent/Immutable/Functional data structures for Python
@@ -169,6 +170,7 @@
 
 ## Shell 
 
+- [nickjj/docker-flask-example](https://github.com/nickjj/docker-flask-example) - A production ready example Flask app that's using Docker and Docker Compose.
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
 
 ## Swift 
@@ -178,13 +180,14 @@
 
 ## TypeScript 
 
+- [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [satelllte/nextjs-wasm](https://github.com/satelllte/nextjs-wasm) - Next.js with WebAssembly
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (334 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [handsontable/hyperformula](https://github.com/handsontable/hyperformula) - An advanced headless evaluator and parser of Excel formulas. Built with TypeScript.
