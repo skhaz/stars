@@ -54,6 +54,7 @@
 
 ## Go 
 
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [m110/airplanes](https://github.com/m110/airplanes) - A 2D shoot 'em up game made with Go, Ebitengine, and donburi. Featuring ECS (Entity Component System).
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
@@ -116,6 +117,7 @@
 
 ## Python 
 
+- [nickjj/docker-flask-example](https://github.com/nickjj/docker-flask-example) - A production ready example Flask app that's using Docker and Docker Compose.
 - [GoogleCloudPlatform/functions-framework-python](https://github.com/GoogleCloudPlatform/functions-framework-python) - FaaS (Function as a service) framework for writing portable Python functions
 - [youknowone/ring](https://github.com/youknowone/ring) - Python cache interface with clean API and built-in memcache & redis + asyncio support.
 - [klen/mixer](https://github.com/klen/mixer) - Mixer -- Is a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects.
@@ -170,7 +172,6 @@
 
 ## Shell 
 
-- [nickjj/docker-flask-example](https://github.com/nickjj/docker-flask-example) - A production ready example Flask app that's using Docker and Docker Compose.
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
 
 ## Swift 
@@ -180,6 +181,7 @@
 
 ## TypeScript 
 
+- [js-sdsl/js-sdsl](https://github.com/js-sdsl/js-sdsl) - A javascript standard data structure library which benchmark against C++ STL.
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [satelllte/nextjs-wasm](https://github.com/satelllte/nextjs-wasm) - Next.js with WebAssembly
