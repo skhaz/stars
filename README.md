@@ -55,6 +55,11 @@
 
 ## Go 
 
+- [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
+- [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
+- [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
+- [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
@@ -83,7 +88,7 @@
 - [golang-queue/queue](https://github.com/golang-queue/queue) - Queue is a Golang library for spawning and managing a Goroutine pool
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [pterodactyl/wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [deroproject/graviton](https://github.com/deroproject/graviton) - Graviton Database: ZFS for key-value stores.
@@ -105,7 +110,7 @@
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
-- [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
+- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 
@@ -125,12 +130,13 @@
 
 ## Python 
 
+- [wemake-services/asyncio-redis-rate-limit](https://github.com/wemake-services/asyncio-redis-rate-limit) - Rate limiter for async functions using Redis as a backend.
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [nickjj/docker-flask-example](https://github.com/nickjj/docker-flask-example) - A production ready example Flask app that's using Docker and Docker Compose.
 - [GoogleCloudPlatform/functions-framework-python](https://github.com/GoogleCloudPlatform/functions-framework-python) - FaaS (Function as a service) framework for writing portable Python functions
 - [youknowone/ring](https://github.com/youknowone/ring) - Python cache interface with clean API and built-in memcache & redis + asyncio support.
 - [klen/mixer](https://github.com/klen/mixer) - Mixer -- Is a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects.
-- [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) - 🎡 Build Python wheels for all the platforms on CI with minimal configuration.
+- [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) - 🎡 Build Python wheels for all the platforms with minimal configuration.
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
