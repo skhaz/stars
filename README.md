@@ -54,6 +54,9 @@
 
 ## Go 
 
+- [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
+- [google/go-querystring](https://github.com/google/go-querystring) - go-querystring is Go library for encoding structs into URL query strings.
+- [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [Shopify/go-lua](https://github.com/Shopify/go-lua) - A Lua VM in Go
 - [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
@@ -105,6 +108,8 @@
 
 ## JavaScript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
@@ -119,7 +124,6 @@
 
 ## Makefile 
 
-- [AbsaOSS/env-binder](https://github.com/AbsaOSS/env-binder) - Binding environment variables to GO structures
 - [libretro-thumbnails/libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) - Thumbnails for RetroArch
 
 ## Others 
@@ -129,6 +133,8 @@
 
 ## Python 
 
+- [danielfm/pybreaker](https://github.com/danielfm/pybreaker) - Python implementation of the Circuit Breaker pattern.
+- [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
 - [wemake-services/asyncio-redis-rate-limit](https://github.com/wemake-services/asyncio-redis-rate-limit) - Rate limiter for async functions using Redis as a backend.
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [nickjj/docker-flask-example](https://github.com/nickjj/docker-flask-example) - A production ready example Flask app that's using Docker and Docker Compose.
@@ -179,6 +185,7 @@
 
 ## Rust 
 
+- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -195,6 +202,7 @@
 
 ## TypeScript 
 
+- [redis/redis-om-node](https://github.com/redis/redis-om-node) - Object mapping, and more, for Redis and Node.js. Written in TypeScript.
 - [mattdsteele/spot-tracker-tracker](https://github.com/mattdsteele/spot-tracker-tracker) - 
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium (x86-64) for Serverless Platforms
