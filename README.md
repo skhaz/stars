@@ -54,6 +54,7 @@
 
 ## Go 
 
+- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [ohler55/ojg](https://github.com/ohler55/ojg) - Optimized JSON for Go
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [google/go-querystring](https://github.com/google/go-querystring) - go-querystring is Go library for encoding structs into URL query strings.
