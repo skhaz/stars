@@ -29,6 +29,7 @@
 
 ## C 
 
+- [skhaz/piragamedev-joystick](https://github.com/skhaz/piragamedev-joystick) - My prototype of a USB-connected joystick that uses HID protocol, written in C using Atmega microcontrollers.
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [moonlight-stream/moonlight-common-c](https://github.com/moonlight-stream/moonlight-common-c) - Core implementation of Nvidia's GameStream protocol
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
@@ -40,7 +41,7 @@
 
 ## C++ 
 
-- [carimbolabs/carimbo](https://github.com/carimbolabs/carimbo) - 2D game engine, developed in modern C++ and built upon SDL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly
+- [carimbolabs/carimbo](https://github.com/carimbolabs/carimbo) - 2D game engine, developed in modern C++ and built upon SDL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
 - [strukturag/libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
 - [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
@@ -58,6 +59,7 @@
 
 ## Go 
 
+- [skhaz/scheduler](https://github.com/skhaz/scheduler) - Task orchestrator built on top of Argo using Kubernetes.
 - [bodgit/sevenzip](https://github.com/bodgit/sevenzip) - Golang library for dealing with 7-zip archives
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [ionrock/procs](https://github.com/ionrock/procs) - Go exec helpers for better using processes.
@@ -120,6 +122,7 @@
 
 ## JavaScript 
 
+- [skhaz/steamosaic](https://github.com/skhaz/steamosaic) - App that creates a "mosaic" with all images from a user's account, using numpy to arrange smaller images into a larger one.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
