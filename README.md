@@ -59,6 +59,8 @@
 
 ## Go 
 
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
+- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
 - [skhaz/scheduler](https://github.com/skhaz/scheduler) - Task orchestrator built on top of Argo using Kubernetes.
 - [bodgit/sevenzip](https://github.com/bodgit/sevenzip) - Golang library for dealing with 7-zip archives
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
