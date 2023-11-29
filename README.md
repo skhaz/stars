@@ -59,6 +59,8 @@
 
 ## Go 
 
+- [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
@@ -153,6 +155,7 @@
 
 ## Python 
 
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
