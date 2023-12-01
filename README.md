@@ -41,6 +41,7 @@
 
 ## C++ 
 
+- [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [flippingpixels/carimbo](https://github.com/flippingpixels/carimbo) - 2D game engine, developed in modern C++ and built upon SDL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
 - [strukturag/libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
 - [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
@@ -128,6 +129,7 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [skhaz/steamosaic](https://github.com/skhaz/steamosaic) - App that creates a "mosaic" with all images from a user's account, using numpy to arrange smaller images into a larger one.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
