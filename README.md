@@ -173,7 +173,7 @@
 
 ## Python 
 
-- [0x67757300/uHTTP](https://github.com/0x67757300/uHTTP) - Pythonic web development
+- [0x67757300/uHTTP](https://github.com/0x67757300/uHTTP) - Stupid web development
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
@@ -248,6 +248,7 @@
 
 ## TypeScript 
 
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [redis/redis-om-node](https://github.com/redis/redis-om-node) - Object mapping, and more, for Redis and Node.js. Written in TypeScript.
 - [mattdsteele/spot-tracker-tracker](https://github.com/mattdsteele/spot-tracker-tracker) - 
