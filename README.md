@@ -71,6 +71,7 @@
 
 ## Go 
 
+- [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go
 - [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
@@ -158,6 +159,7 @@
 
 ## JavaScript 
 
+- [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [skhaz/steamosaic](https://github.com/skhaz/steamosaic) - App that creates a "mosaic" with all images from a user's account, using numpy to arrange smaller images into a larger one.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -254,6 +256,7 @@
 
 ## Shell 
 
+- [hiulit/cross-compile-godot-raspberry-pi](https://github.com/hiulit/cross-compile-godot-raspberry-pi) - A script to easily cross-compile Godot binaries for the Raspberry Pi from Linux x86_64 and an extra script to easily transfer the compiled Godot binaries to the Raspberry Pi using rsync
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
 
 ## Swift 
