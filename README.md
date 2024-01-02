@@ -7,10 +7,10 @@
 
 - [Assembly](#assembly)
 - [C](#c)
-- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -44,15 +44,11 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [AOMediaCodec/libavif](https://github.com/AOMediaCodec/libavif) - libavif - Library for encoding and decoding .avif files
 
-## C# # 
-
-- [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification
-
 ## C++ 
 
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
-- [flippingpixels/carimbo](https://github.com/flippingpixels/carimbo) - 2D game engine, developed in modern C++ and built upon SDL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
+- [colorreh/carimbo](https://github.com/colorreh/carimbo) - 2D game engine, developed in modern C++ and built upon SDL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
 - [strukturag/libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
 - [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
@@ -68,6 +64,10 @@
 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
 - [OpenVisualCloud/Dockerfiles](https://github.com/OpenVisualCloud/Dockerfiles) - Optimized media, analytics and graphics software stack images. Use the dockerfile(s) in your project or as a recipe book for bare metal installation.
+
+## Elixir 
+
+- [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification
 
 ## Go 
 
