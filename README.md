@@ -190,6 +190,7 @@
 
 ## Python 
 
+- [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [0x67757300/uHTTP](https://github.com/0x67757300/uHTTP) - Stupid web development
@@ -250,6 +251,7 @@
 
 ## Rust 
 
+- [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
