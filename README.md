@@ -31,6 +31,7 @@
 
 ## C 
 
+- [NicoHood/HID](https://github.com/NicoHood/HID) - Bring enhanced HID functions to your Arduino!
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
