@@ -53,7 +53,7 @@
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [coloreh/carimbo](https://github.com/coloreh/carimbo) - 2D game engine, developed in modern C++ and built upon SDL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
 - [strukturag/libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
-- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
+- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [simsong/tcpflow](https://github.com/simsong/tcpflow) - TCP/IP packet demultiplexer. Download from:
 - [evert-arias/EasyButton](https://github.com/evert-arias/EasyButton) - Arduino library for debouncing momentary contact switches, detect press, release, long press and sequences with event definitions and callbacks.
@@ -274,6 +274,7 @@
 
 ## TypeScript 
 
+- [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
