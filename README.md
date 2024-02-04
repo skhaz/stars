@@ -40,7 +40,7 @@
 - [skhaz/piragamedev-joystick](https://github.com/skhaz/piragamedev-joystick) - My prototype of a USB-connected joystick that uses HID protocol, written in C using Atmega microcontrollers.
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [moonlight-stream/moonlight-common-c](https://github.com/moonlight-stream/moonlight-common-c) - Core implementation of Nvidia's GameStream protocol
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [pikvm/ustreamer](https://github.com/pikvm/ustreamer) - µStreamer - Lightweight and fast MJPEG-HTTP streamer
