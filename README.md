@@ -38,7 +38,7 @@
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
 - [skhaz/piragamedev-joystick](https://github.com/skhaz/piragamedev-joystick) - My prototype of a USB-connected joystick that uses HID protocol, written in C using Atmega microcontrollers.
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [moonlight-stream/moonlight-common-c](https://github.com/moonlight-stream/moonlight-common-c) - Core implementation of Nvidia's GameStream protocol
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
@@ -49,6 +49,7 @@
 
 ## C++ 
 
+- [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [coloreh/carimbo](https://github.com/coloreh/carimbo) - 2D game engine, developed in modern C++ and built upon SDL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
