@@ -31,6 +31,7 @@
 
 ## C 
 
+- [tokers/zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression
 - [NicoHood/HID](https://github.com/NicoHood/HID) - Bring enhanced HID functions to your Arduino!
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
@@ -75,6 +76,7 @@
 
 ## Go 
 
+- [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [codegangsta/gin](https://github.com/codegangsta/gin) - Live reload utility for Go web servers
 - [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go
