@@ -197,6 +197,7 @@
 
 ## Python 
 
+- [stm32-rs/stm32-rs](https://github.com/stm32-rs/stm32-rs) - Embedded Rust device crates for STM32 microcontrollers
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
