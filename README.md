@@ -282,6 +282,7 @@
 
 ## TypeScript 
 
+- [honojs/examples](https://github.com/honojs/examples) - Examples using Hono.
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
