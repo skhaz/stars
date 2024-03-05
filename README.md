@@ -164,7 +164,7 @@
 
 ## Java 
 
-- [thingsboard/tbmq](https://github.com/thingsboard/tbmq) - Open-source MQTT broker - facilitates MQTT client connectivity, message publishing, and distribution among subscribers.
+- [thingsboard/tbmq](https://github.com/thingsboard/tbmq) - Open-source, scalable, and fault-tolerant MQTT broker able to handle 4M+ concurrent client connections, supporting at least 3M messages per second throughput per single cluster node with low latency d
 
 ## JavaScript 
 
