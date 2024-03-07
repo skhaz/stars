@@ -200,6 +200,7 @@
 
 ## Python 
 
+- [bananaml/fructose](https://github.com/bananaml/fructose) - 
 - [django-q2/django-q2](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django based on Django-Q
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
