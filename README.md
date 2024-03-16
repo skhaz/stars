@@ -200,6 +200,8 @@
 
 ## Python 
 
+- [vshymanskyy/muon](https://github.com/vshymanskyy/muon) - µON - a compact and simple binary object notation
+- [ankane/python-timeouts](https://github.com/ankane/python-timeouts) - Timeouts for popular Python packages
 - [bananaml/fructose](https://github.com/bananaml/fructose) - 
 - [django-q2/django-q2](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django based on Django-Q
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
