@@ -200,6 +200,7 @@
 
 ## Python 
 
+- [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny) - Shiny for Python
 - [vshymanskyy/muon](https://github.com/vshymanskyy/muon) - µON - a compact and simple binary object notation
 - [ankane/python-timeouts](https://github.com/ankane/python-timeouts) - Timeouts for popular Python packages
 - [bananaml/fructose](https://github.com/bananaml/fructose) - 
