@@ -201,6 +201,7 @@
 
 ## Python 
 
+- [ikvk/imap_tools](https://github.com/ikvk/imap_tools) - Work with email by IMAP
 - [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny) - Shiny for Python
 - [vshymanskyy/muon](https://github.com/vshymanskyy/muon) - µON - a compact and simple binary object notation
 - [ankane/python-timeouts](https://github.com/ankane/python-timeouts) - Timeouts for popular Python packages
