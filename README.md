@@ -202,6 +202,7 @@
 
 ## Python 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [glitzflitz/pyxorfilter](https://github.com/glitzflitz/pyxorfilter) - Python bindings for xorfilter(faster and smaller than bloom and cuckoo filters)
 - [ikvk/imap_tools](https://github.com/ikvk/imap_tools) - Work with email by IMAP
 - [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny) - Shiny for Python
