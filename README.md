@@ -52,6 +52,7 @@
 
 ## C++ 
 
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
@@ -204,6 +205,7 @@
 
 ## Python 
 
+- [pydantic/pydantic-settings](https://github.com/pydantic/pydantic-settings) - Settings management using pydantic
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [glitzflitz/pyxorfilter](https://github.com/glitzflitz/pyxorfilter) - Python bindings for xorfilter(faster and smaller than bloom and cuckoo filters)
 - [ikvk/imap_tools](https://github.com/ikvk/imap_tools) - Work with email by IMAP
