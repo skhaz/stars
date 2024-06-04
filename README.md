@@ -9,6 +9,7 @@
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
+- [CoffeeScript](#coffeescript)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
@@ -70,6 +71,10 @@
 ## CSS 
 
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
+
+## CoffeeScript 
+
+- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
 
 ## Dockerfile 
 
@@ -320,7 +325,7 @@
 
 ## TypeScript 
 
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, and RAGs. Catch regressions and improve prompt quality. LLM evals for OpenAI, Azure, Anthropic, Gemini, Mistral, Llama, Bedrock, Ollama, and other local & private models wit
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Use LLM evals to improve your app's quality and catch problems. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comman
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
 - [Mechazawa/103-early-anti-adblock](https://github.com/Mechazawa/103-early-anti-adblock) - Detect adblockers without Javascript by abusing early hints
 - [honojs/examples](https://github.com/honojs/examples) - Examples using Hono.
