@@ -88,6 +88,7 @@
 
 ## Go 
 
+- [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) - 
 - [goravel/framework](https://github.com/goravel/framework) - The Goravel Framework.
 - [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
