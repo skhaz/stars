@@ -80,7 +80,7 @@
 
 ## Dockerfile 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [OpenVisualCloud/Dockerfiles](https://github.com/OpenVisualCloud/Dockerfiles) - Optimized media, analytics and graphics software stack images. Use the dockerfile(s) in your project or as a recipe book for bare metal installation.
 
 ## Elixir 
@@ -334,7 +334,7 @@
 - [Mechazawa/103-early-anti-adblock](https://github.com/Mechazawa/103-early-anti-adblock) - Detect adblockers without Javascript by abusing early hints
 - [honojs/examples](https://github.com/honojs/examples) - Examples using Hono.
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
-- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
+- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
