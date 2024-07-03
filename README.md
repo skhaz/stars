@@ -9,7 +9,6 @@
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
-- [CoffeeScript](#coffeescript)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
@@ -17,6 +16,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Makefile](#makefile)
+- [Nim](#nim)
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
@@ -73,10 +74,6 @@
 ## CSS 
 
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
-
-## CoffeeScript 
-
-- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
 
 ## Dockerfile 
 
@@ -190,6 +187,7 @@
 
 ## JavaScript 
 
+- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance.
@@ -213,6 +211,10 @@
 
 - [libretro-thumbnails/libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) - Thumbnails for RetroArch
 
+## Nim 
+
+- [inim-repl/INim](https://github.com/inim-repl/INim) - Interactive Nim shell / REPL / Playground
+
 ## Others 
 
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
@@ -227,7 +229,7 @@
 
 ## Python 
 
-- [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs
+- [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [pydantic/pydantic-settings](https://github.com/pydantic/pydantic-settings) - Settings management using pydantic
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
