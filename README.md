@@ -229,6 +229,7 @@
 
 ## Python 
 
+- [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform
 - [AgentOps-AI/tokencost](https://github.com/AgentOps-AI/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
