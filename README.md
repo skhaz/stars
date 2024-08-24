@@ -9,6 +9,7 @@
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
+- [Clojure](#clojure)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
@@ -76,6 +77,10 @@
 ## CSS 
 
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
+
+## Clojure 
+
+- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database
 
 ## Dockerfile 
 
