@@ -246,6 +246,7 @@
 
 ## Python 
 
+- [hamcrest/PyHamcrest](https://github.com/hamcrest/PyHamcrest) - Hamcrest matchers for Python
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform
@@ -353,6 +354,7 @@
 
 ## TypeScript 
 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
