@@ -96,6 +96,8 @@
 
 ## Go 
 
+- [keisku/gmon](https://github.com/keisku/gmon) - An eBPF tool monitoring a goroutine
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
