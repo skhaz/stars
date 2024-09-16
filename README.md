@@ -250,6 +250,7 @@
 
 ## Python 
 
+- [dleemiller/WordLlama](https://github.com/dleemiller/WordLlama) - Things you can do with the token embeddings of an LLM
 - [hamcrest/PyHamcrest](https://github.com/hamcrest/PyHamcrest) - Hamcrest matchers for Python
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
