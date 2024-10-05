@@ -16,6 +16,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
 - [Nim](#nim)
 - [Others](#others)
@@ -226,6 +227,10 @@
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 
+## Jupyter Notebook 
+
+- [dleemiller/WordLlama](https://github.com/dleemiller/WordLlama) - Things you can do with the token embeddings of an LLM
+
 ## Makefile 
 
 - [libretro-thumbnails/libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) - Thumbnails for RetroArch
@@ -254,7 +259,6 @@
 
 - [cle-b/httpdbg](https://github.com/cle-b/httpdbg) - A tool for Python developers to easily debug the HTTP(S) client requests in a Python program.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [dleemiller/WordLlama](https://github.com/dleemiller/WordLlama) - Things you can do with the token embeddings of an LLM
 - [hamcrest/PyHamcrest](https://github.com/hamcrest/PyHamcrest) - Hamcrest matchers for Python
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
@@ -318,7 +322,7 @@
 - [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent) - Persistent/Immutable/Functional data structures for Python
 - [mcfunley/pugsql](https://github.com/mcfunley/pugsql) - A HugSQL-inspired database library for Python
-- [oracle/graalpython](https://github.com/oracle/graalpython) - A Python 3 implementation built on GraalVM
+- [oracle/graalpython](https://github.com/oracle/graalpython) - A high-performance embeddable Python 3 runtime for Java
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [scrapedia/scrapy-pipelines](https://github.com/scrapedia/scrapy-pipelines) - A collection of pipelines for Scrapy
 - [google/latexify_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
