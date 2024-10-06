@@ -16,7 +16,6 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
 - [Nim](#nim)
 - [Others](#others)
@@ -69,7 +68,7 @@
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
-- [colorfulworks/carimbo](https://github.com/colorfulworks/carimbo) - 2D game engine, developed in modern C++ and built upon SDL, OpenAL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
+- [carimbolabs/carimbo](https://github.com/carimbolabs/carimbo) - 2D game engine, developed in modern C++ and built upon SDL, OpenAL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
 - [strukturag/libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
@@ -227,10 +226,6 @@
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 
-## Jupyter Notebook 
-
-- [dleemiller/WordLlama](https://github.com/dleemiller/WordLlama) - Things you can do with the token embeddings of an LLM
-
 ## Makefile 
 
 - [libretro-thumbnails/libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) - Thumbnails for RetroArch
@@ -259,6 +254,7 @@
 
 - [cle-b/httpdbg](https://github.com/cle-b/httpdbg) - A tool for Python developers to easily debug the HTTP(S) client requests in a Python program.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [dleemiller/WordLlama](https://github.com/dleemiller/WordLlama) - Things you can do with the token embeddings of an LLM
 - [hamcrest/PyHamcrest](https://github.com/hamcrest/PyHamcrest) - Hamcrest matchers for Python
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
