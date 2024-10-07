@@ -59,6 +59,7 @@
 
 ## C++ 
 
+- [carimbolabs/carimbo](https://github.com/carimbolabs/carimbo) - 2D game engine, developed in modern C++ and built upon SDL, OpenAL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
 - [dsrhaslab/lazyfs](https://github.com/dsrhaslab/lazyfs) - LazyFS: A FUSE Filesystem with an internal dedicated page cache, which can be used to simulate data loss on unsynced writes
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging NEON, AVX2, AVX-512, and SWAR to accelerate search, sort, edit distances, alignment scores, etc 🦖
@@ -68,7 +69,6 @@
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
-- [carimbolabs/carimbo](https://github.com/carimbolabs/carimbo) - 2D game engine, developed in modern C++ and built upon SDL, OpenAL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
 - [strukturag/libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
