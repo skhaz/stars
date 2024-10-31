@@ -105,7 +105,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
-- [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) - 
+- [eclipse-paho/paho.mqtt.golang](https://github.com/eclipse-paho/paho.mqtt.golang) - 
 - [goravel/framework](https://github.com/goravel/framework) - The Goravel Framework.
 - [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
@@ -341,7 +341,7 @@
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [tembo-io/pg_vectorize](https://github.com/tembo-io/pg_vectorize) - The simplest way to build AI workloads on Postgres
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [boustrophedon/pgtemp](https://github.com/boustrophedon/pgtemp) - Rust library and daemon for easily starting postgres databases per-test without Docker
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
