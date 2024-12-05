@@ -62,6 +62,7 @@
 
 ## C++ 
 
+- [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [carimbolabs/carimbo](https://github.com/carimbolabs/carimbo) - 2D game engine, developed in modern C++ and built upon SDL, OpenAL, Chipmunk, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
 - [dsrhaslab/lazyfs](https://github.com/dsrhaslab/lazyfs) - LazyFS: A FUSE Filesystem with an internal dedicated page cache, which can be used to simulate data loss on unsynced writes
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
@@ -421,6 +422,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [handsontable/hyperformula](https://github.com/handsontable/hyperformula) - HyperFormula is an open-source headless spreadsheet for business web apps. It comes with over 400 formulas, CRUD operations, undo-redo, clipboard support, and sorting.
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 
 
