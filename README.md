@@ -63,7 +63,7 @@
 ## C++ 
 
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
-- [violentbits/carimbo](https://github.com/violentbits/carimbo) - 2D game engine, developed in modern C++ and built upon SDL, OpenAL, Chipmunk, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
+- [willtobyte/carimbo](https://github.com/willtobyte/carimbo) - 2D game engine, developed in modern C++ and built upon SDL & OpenAL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
 - [dsrhaslab/lazyfs](https://github.com/dsrhaslab/lazyfs) - LazyFS: A FUSE Filesystem with an internal dedicated page cache, which can be used to simulate data loss on unsynced writes
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging NEON, AVX2, AVX-512, and SWAR to accelerate search, sort, edit distances, alignment scores, etc 🦖
