@@ -236,6 +236,7 @@
 
 ## Lua 
 
+- [dacap/export-aseprite-file](https://github.com/dacap/export-aseprite-file) - Little Aseprite script to export the data inside a .aseprite
 - [kikito/middleclass](https://github.com/kikito/middleclass) - Object-orientation for Lua
 
 ## MDX 
