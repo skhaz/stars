@@ -269,6 +269,7 @@
 
 ## Python 
 
+- [NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-ingest) - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieva
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
 - [scoder/lupa](https://github.com/scoder/lupa) - Lua in Python
