@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency
 - [bahaaador/bluetooth-usb-peripheral-relay](https://github.com/bahaaador/bluetooth-usb-peripheral-relay) - Bluetooth to USB HID relay using a Raspberry Pi Zero 2 W (or any OTG enabled single board computer)
