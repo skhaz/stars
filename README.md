@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [willtobyte/carimbo](https://github.com/willtobyte/carimbo) - 2D game engine, developed in modern C++ and built upon SDL & OpenAL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
 - [dsrhaslab/lazyfs](https://github.com/dsrhaslab/lazyfs) - LazyFS: A FUSE Filesystem with an internal dedicated page cache, which can be used to simulate data loss on unsynced writes
@@ -269,6 +270,7 @@
 
 ## Python 
 
+- [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg) - A text extraction library supporting PDFs, images, office documents and more
 - [peterhinch/micropython-mqtt](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Recovers from WiFi and broker outages.
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-ingest) - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieva
