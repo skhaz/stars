@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [qxmpp-project/qxmpp](https://github.com/qxmpp-project/qxmpp) - Cross-platform C++ XMPP client and server library
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [willtobyte/carimbo](https://github.com/willtobyte/carimbo) - 2D game engine, developed in modern C++ and built upon SDL & OpenAL, with scripting capabilities using Lua, and designed to be portable to the web through WebAssembly.
@@ -352,7 +353,7 @@
 - [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent) - Persistent/Immutable/Functional data structures for Python
 - [mcfunley/pugsql](https://github.com/mcfunley/pugsql) - A HugSQL-inspired database library for Python
 - [oracle/graalpython](https://github.com/oracle/graalpython) - GraalPy – A high-performance embeddable Python 3 runtime for Java
-- [geldata/gel](https://github.com/geldata/gel) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+- [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [scrapedia/scrapy-pipelines](https://github.com/scrapedia/scrapy-pipelines) - A collection of pipelines for Scrapy
 - [google/latexify_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
 - [pytransitions/transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
