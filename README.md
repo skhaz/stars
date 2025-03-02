@@ -64,6 +64,8 @@
 
 ## C++ 
 
+- [google/highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
+- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [qxmpp-project/qxmpp](https://github.com/qxmpp-project/qxmpp) - Cross-platform C++ XMPP client and server library
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
