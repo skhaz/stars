@@ -389,6 +389,7 @@
 
 ## Shell 
 
+- [game-ci/steam-deploy](https://github.com/game-ci/steam-deploy) - Github Action to deploy a game to Steam
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [hiulit/cross-compile-godot-raspberry-pi](https://github.com/hiulit/cross-compile-godot-raspberry-pi) - A script to easily cross-compile Godot binaries for the Raspberry Pi from Linux x86_64 and an extra script to easily transfer the compiled Godot binaries to the Raspberry Pi using rsync
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, registry.k8s.io, ghcr.io)
