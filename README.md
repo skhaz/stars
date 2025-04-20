@@ -65,7 +65,7 @@
 
 ## C++ 
 
-- [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Learning how to write "Less Slow" code in C++ 20, C 99, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
+- [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
 - [google/highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [qxmpp-project/qxmpp](https://github.com/qxmpp-project/qxmpp) - Moved to KDE: https://invent.kde.org/libraries/qxmpp | Cross-platform C++ XMPP client and server library
