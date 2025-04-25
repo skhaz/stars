@@ -356,7 +356,7 @@
 - [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit for Python
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
-- [kiwicom/pytest-recording](https://github.com/kiwicom/pytest-recording) - A pytest plugin that allows recording network interactions via VCR.py
+- [kiwicom/pytest-recording](https://github.com/kiwicom/pytest-recording) - A pytest plugin powered by VCR.py to record and replay HTTP traffic.
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [big-o/cherrypicker](https://github.com/big-o/cherrypicker) - A Python package for extracting flat tables of data from complex structures.
 - [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
