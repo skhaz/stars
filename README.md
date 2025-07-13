@@ -70,6 +70,7 @@
 
 ## C++ 
 
+- [efecan0/binaryrpc-framework](https://github.com/efecan0/binaryrpc-framework) - BinaryRpc designed for latency-sensitive applications such as multiplayer games, financial tick streams, and IoT dashboards, delivering ultra-low latency and minimal overhead. With a modular architect
 - [PlutoLang/Pluto](https://github.com/PlutoLang/Pluto) - A superset of Lua 5.4 with a focus on general-purpose programming.
 - [fernandotonon/QtMeshEditor](https://github.com/fernandotonon/QtMeshEditor) - It is a graphical editor for Ogre3D mesh, materials and animations
 - [boostorg/url](https://github.com/boostorg/url) - Boost.URL is a library for manipulating Uniform Resource Identifiers (URIs) and Locators (URLs).
