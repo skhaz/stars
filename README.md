@@ -39,6 +39,7 @@
 
 ## C 
 
+- [libsdl-org/SDL_shader_tools](https://github.com/libsdl-org/SDL_shader_tools) - Shader compiler and tools for SDLSL (Simple Directmedia Layer Shader Language)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [quiet/libcorrect](https://github.com/quiet/libcorrect) - C library for Convolutional codes and Reed-Solomon
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
