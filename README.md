@@ -31,6 +31,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [YAML](#yaml)
 
 ## Assembly 
 
@@ -266,7 +267,7 @@
 ## Jupyter Notebook 
 
 - [SamPlvs/LOGO_Python](https://github.com/SamPlvs/LOGO_Python) - This is a sample code for recreation of an old programming language called Logo used to educate children about programming by co
-- [trycua/cua](https://github.com/trycua/cua) - Cua is the Docker Container for Computer-Use AI Agents.
+- [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
 
 ## Lua 
 
@@ -419,6 +420,7 @@
 
 ## Rust 
 
+- [zedless-editor/zed](https://github.com/zedless-editor/zed) - (WIP) Zed fork focused on privacy and being local-first
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
@@ -426,7 +428,6 @@
 - [schpet/envset](https://github.com/schpet/envset) - set values in .env files the fun way
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [ChuckHend/pg_vectorize](https://github.com/ChuckHend/pg_vectorize) - The simplest way to build AI workloads on Postgres
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [boustrophedon/pgtemp](https://github.com/boustrophedon/pgtemp) - Rust library and daemon for easily starting postgres databases per-test without Docker
@@ -501,6 +502,10 @@
 - [handsontable/hyperformula](https://github.com/handsontable/hyperformula) - HyperFormula is an open-source headless spreadsheet for business web apps. It comes with over 400 formulas, CRUD operations, undo-redo, clipboard support, and sorting.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
+
+## YAML 
+
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 
 ## License
