@@ -43,7 +43,7 @@
 - [libsdl-org/SDL_shader_tools](https://github.com/libsdl-org/SDL_shader_tools) - Shader compiler and tools for SDLSL (Simple Directmedia Layer Shader Language)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [quiet/libcorrect](https://github.com/quiet/libcorrect) - C library for Convolutional codes and Reed-Solomon
-- [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
+- [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple DirectMedia Layer
 - [zlib-ng/zlib-ng](https://github.com/zlib-ng/zlib-ng) - zlib replacement with optimizations for "next generation" systems.
 - [randy408/libspng](https://github.com/randy408/libspng) - Simple, modern libpng alternative
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster strings for C, C++, Python, Rust, Swift & Go, leveraging NEON, AVX2, AVX-512, SVE, & SWAR to accelerate search, hashing, sort, edit distances, and memory ops 🦖
