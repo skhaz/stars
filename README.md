@@ -338,7 +338,7 @@
 - [microsoft/presidio](https://github.com/microsoft/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
 - [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg) - Document intelligence framework for Python - Extract text, metadata, and structured data   from PDFs, images, Office documents, and more. Built on Pandoc, PDFium, and Tesseract.
 - [peterhinch/micropython-mqtt](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Recovers from WiFi and broker outages.
-- [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-ingest) - NeMo Retriever extraction is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever extraction uses specialized NVIDIA NIM microservices to find, contex
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
