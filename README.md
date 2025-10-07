@@ -45,6 +45,7 @@
 
 ## C 
 
+- [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them.
 - [ramiropolla/ffglitch-core](https://github.com/ramiropolla/ffglitch-core) - FFglitch - FFmpeg fork for glitching
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [libsdl-org/SDL_shader_tools](https://github.com/libsdl-org/SDL_shader_tools) - Shader compiler and tools for SDLSL (Simple Directmedia Layer Shader Language)
