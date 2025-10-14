@@ -431,7 +431,7 @@
 
 ## Ruby 
 
-- [czhu12/canine](https://github.com/czhu12/canine) - Power of Kubernetes, Simplicity of Heroku
+- [CanineHQ/canine](https://github.com/CanineHQ/canine) - Power of Kubernetes, Simplicity of Heroku
 - [andersonkrs/malheatmap](https://github.com/andersonkrs/malheatmap) - An extension for tracking your activities on myanimelist.net
 
 ## Rust 
