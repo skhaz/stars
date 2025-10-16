@@ -397,7 +397,7 @@
 - [crdoconnor/strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [construct/construct](https://github.com/construct/construct) - Construct: Declarative data structures for python that allow symmetric parsing and building
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
-- [jsbueno/extradict](https://github.com/jsbueno/extradict) - Collection of Mappings and with different capabilites and some utilities
+- [jsbueno/extradict](https://github.com/jsbueno/extradict) - Collection of Mappings and data structures  with different capabilities and some utilities
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [aio-libs/yarl](https://github.com/aio-libs/yarl) - Yet another URL library
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
