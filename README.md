@@ -45,6 +45,7 @@
 
 ## C 
 
+- [icculus/physfs](https://github.com/icculus/physfs) - A portable, flexible file i/o abstraction.
 - [kunitoki/LuaBridge3](https://github.com/kunitoki/LuaBridge3) - A lightweight, dependency-free library for binding Lua to C++
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them.
 - [ramiropolla/ffglitch-core](https://github.com/ramiropolla/ffglitch-core) - FFglitch - FFmpeg fork for glitching
