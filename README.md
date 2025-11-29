@@ -136,6 +136,7 @@
 
 ## Go 
 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [Southclaws/fault](https://github.com/Southclaws/fault) - Go errors but structured and composable. Fault provides an extensible yet ergonomic mechanism for wrapping errors.
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
@@ -224,7 +225,6 @@
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [bdd/runitor](https://github.com/bdd/runitor) - A command runner with healthchecks.io integration
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [pytimer/k8sutil](https://github.com/pytimer/k8sutil) - The repository provides some toolkits package to make it easier to call client-go to operate Kubernetes cluster.
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
