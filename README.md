@@ -45,6 +45,7 @@
 
 ## C 
 
+- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
 - [icculus/physfs](https://github.com/icculus/physfs) - A portable, flexible file i/o abstraction.
 - [kunitoki/LuaBridge3](https://github.com/kunitoki/LuaBridge3) - A lightweight, dependency-free library for binding Lua to C++
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them.
@@ -87,6 +88,7 @@
 
 ## C++ 
 
+- [mikeloomisgg/cppack](https://github.com/mikeloomisgg/cppack) - A modern c++ implementation of the msgpack spec. - msgpack.org[C++17]
 - [eranpeer/FakeIt](https://github.com/eranpeer/FakeIt) - C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.
 - [mischief/arduino-lua](https://github.com/mischief/arduino-lua) - lua port for arduino/esp32
 - [efecan0/binaryrpc-framework](https://github.com/efecan0/binaryrpc-framework) - BinaryRpc designed for latency-sensitive applications such as multiplayer games, financial tick streams, and IoT dashboards, delivering ultra-low latency and minimal overhead. With a modular architect
