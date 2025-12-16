@@ -100,7 +100,6 @@
 - [ROCm/hip](https://github.com/ROCm/hip) - HIP: C++ Heterogeneous-Compute Interface for Portability
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [google/highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [qxmpp-project/qxmpp](https://github.com/qxmpp-project/qxmpp) - Moved to KDE: https://invent.kde.org/libraries/qxmpp | Cross-platform C++ XMPP client and server library
@@ -163,8 +162,8 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [eclipse-paho/paho.mqtt.golang](https://github.com/eclipse-paho/paho.mqtt.golang) - 
-- [goravel/framework](https://github.com/goravel/framework) - A full-featured Golang Development Framework.
-- [goravel/goravel](https://github.com/goravel/goravel) - A full-featured Golang Development Framework.
+- [goravel/framework](https://github.com/goravel/framework) - The full-featured Golang Development Framework source code
+- [goravel/goravel](https://github.com/goravel/goravel) - The full-featured Golang Development Framework skeleton
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use
@@ -265,6 +264,7 @@
 - [holepunchto/pear](https://github.com/holepunchto/pear) - combined Peer-to-Peer (P2P) Runtime, Development & Deployment tool
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
 - [christian-fei/my-yt](https://github.com/christian-fei/my-yt) - A clean and minimal youtube frontend, without all the ads and whistles
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
 - [HeyPuter/Oops.js](https://github.com/HeyPuter/Oops.js) - 🤭 Oops.js: Add powerful undo/redo capabilities to your app
 - [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
