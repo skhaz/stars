@@ -329,6 +329,7 @@
 
 ## Python 
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [hyperflask/hyperflask](https://github.com/hyperflask/hyperflask) - Full stack web framework
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [StanfordBDHG/OpenTSLM](https://github.com/StanfordBDHG/OpenTSLM) - OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data
