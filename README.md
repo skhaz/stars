@@ -13,7 +13,6 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Dockerfile](#dockerfile)
-- [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -134,10 +133,6 @@
 - [astral-sh/uv-docker-example](https://github.com/astral-sh/uv-docker-example) - An example of using uv in Docker images
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [OpenVisualCloud/Dockerfiles](https://github.com/OpenVisualCloud/Dockerfiles) - Optimized media, analytics and graphics software stack images. Use the dockerfile(s) in your project or as a recipe book for bare metal installation.
-
-## Elixir 
-
-- [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification
 
 ## Go 
 
@@ -260,6 +255,7 @@
 
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [thingsboard/tbmq](https://github.com/thingsboard/tbmq) - Open-source, fault-tolerant MQTT message broker engineered for massive scalability and high-performance routing. It delivers millions of messages per second with very low latency, while efficiently ma
+- [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification
 
 ## JavaScript 
 
@@ -330,6 +326,7 @@
 
 ## Python 
 
+- [shawnz/textcoder](https://github.com/shawnz/textcoder) - Steganographic message encoder using LLMs
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [hyperflask/hyperflask](https://github.com/hyperflask/hyperflask) - Full stack web framework
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
@@ -493,7 +490,7 @@
 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [quemsah/awesome-claude-plugins](https://github.com/quemsah/awesome-claude-plugins) - Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows
-- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 4000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
