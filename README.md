@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Dockerfile](#dockerfile)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -133,6 +134,10 @@
 - [astral-sh/uv-docker-example](https://github.com/astral-sh/uv-docker-example) - An example of using uv in Docker images
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [OpenVisualCloud/Dockerfiles](https://github.com/OpenVisualCloud/Dockerfiles) - Optimized media, analytics and graphics software stack images. Use the dockerfile(s) in your project or as a recipe book for bare metal installation.
+
+## Fluent 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 ## Go 
 
@@ -262,7 +267,6 @@
 - [holepunchto/pear](https://github.com/holepunchto/pear) - combined Peer-to-Peer (P2P) Runtime, Development & Deployment tool
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
 - [christian-fei/my-yt](https://github.com/christian-fei/my-yt) - A clean and minimal youtube frontend, without all the ads and whistles
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
 - [HeyPuter/Oops.js](https://github.com/HeyPuter/Oops.js) - 🤭 Oops.js: Add powerful undo/redo capabilities to your app
 - [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
@@ -489,6 +493,7 @@
 
 ## TypeScript 
 
+- [21st-dev/1code](https://github.com/21st-dev/1code) - Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [quemsah/awesome-claude-plugins](https://github.com/quemsah/awesome-claude-plugins) - Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 5000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
