@@ -88,6 +88,7 @@
 
 ## C++ 
 
+- [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 - [0xf00ff00f/rotator](https://github.com/0xf00ff00f/rotator) - 
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -136,6 +137,7 @@
 
 ## Go 
 
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [Southclaws/fault](https://github.com/Southclaws/fault) - Go errors but structured and composable. Fault provides an extensible yet ergonomic mechanism for wrapping errors.
