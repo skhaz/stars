@@ -501,7 +501,7 @@
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Best UI for Claude Code
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [quemsah/awesome-claude-plugins](https://github.com/quemsah/awesome-claude-plugins) - Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows
-- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 6000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 8000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
