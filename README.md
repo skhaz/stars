@@ -88,6 +88,7 @@
 
 ## C++ 
 
+- [willtobyte/carimbo](https://github.com/willtobyte/carimbo) - A 2D game engine developed in modern C++ using SDL, an Entity-Component-System (ECS) architecture, and Box2D. It features Lua scripting and is designed for web portability via WebAssembly
 - [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 - [0xf00ff00f/rotator](https://github.com/0xf00ff00f/rotator) - 
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
@@ -99,7 +100,6 @@
 - [PlutoLang/Pluto](https://github.com/PlutoLang/Pluto) - A superset of Lua 5.4 with a focus on general-purpose programming.
 - [fernandotonon/QtMeshEditor](https://github.com/fernandotonon/QtMeshEditor) - It is a graphical editor for Ogre3D mesh, materials and animations
 - [boostorg/url](https://github.com/boostorg/url) - Boost.URL is a library for manipulating Uniform Resource Identifiers (URIs) and Locators (URLs).
-- [willtobyte/carimbo](https://github.com/willtobyte/carimbo) - A 2D game engine developed in modern C++ using SDL, an Entity-Component-System (ECS) architecture, and Box2D. It features Lua scripting and is designed for web portability via WebAssembly
 - [ROCm/hip](https://github.com/ROCm/hip) - HIP: C++ Heterogeneous-Compute Interface for Portability
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
 - [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
