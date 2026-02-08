@@ -498,6 +498,7 @@
 
 ## TypeScript 
 
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Codes)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [quemsah/awesome-claude-plugins](https://github.com/quemsah/awesome-claude-plugins) - Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows
