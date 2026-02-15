@@ -87,6 +87,7 @@
 
 ## C++ 
 
+- [OGRECave/ogre](https://github.com/OGRECave/ogre) - high-performance rendering backend (C++, Python, C#, Java)
 - [willtobyte/carimbo](https://github.com/willtobyte/carimbo) - A 2D game engine developed in modern C++ using SDL, an Entity-Component-System (ECS) architecture, and Box2D. It features Lua scripting and is designed for web portability via WebAssembly
 - [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 - [0xf00ff00f/rotator](https://github.com/0xf00ff00f/rotator) - 
@@ -314,6 +315,7 @@
 
 ## Others 
 
+- [i5heu/ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts) - Maintained - uBlock Origin filter list to hide YouTube Shorts
 - [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) - [TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.
 - [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy has been discontinued.
 - [Klaus2m5/6502_65C02_functional_tests](https://github.com/Klaus2m5/6502_65C02_functional_tests) - Tests for all valid opcodes of the 6502 and 65C02 processor
