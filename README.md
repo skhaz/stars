@@ -102,7 +102,7 @@
 - [mischief/arduino-lua](https://github.com/mischief/arduino-lua) - lua port for arduino/esp32
 - [efecan0/binaryrpc-framework](https://github.com/efecan0/binaryrpc-framework) - BinaryRpc designed for latency-sensitive applications such as multiplayer games, financial tick streams, and IoT dashboards, delivering ultra-low latency and minimal overhead. With a modular architect
 - [PlutoLang/Pluto](https://github.com/PlutoLang/Pluto) - A superset of Lua 5.4 with a focus on general-purpose programming.
-- [fernandotonon/QtMeshEditor](https://github.com/fernandotonon/QtMeshEditor) - Free 3D asset tool for indie game developers — merge Mixamo animations, convert between 40+ 3D formats, edit materials with AI
+- [fernandotonon/QtMeshEditor](https://github.com/fernandotonon/QtMeshEditor) - Free 3D asset tool for indie game developers — merge animations, convert between 40+ 3D formats, edit materials with AI
 - [boostorg/url](https://github.com/boostorg/url) - Boost.URL is a library for manipulating Uniform Resource Identifiers (URIs) and Locators (URLs).
 - [ROCm/hip](https://github.com/ROCm/hip) - HIP: C++ Heterogeneous-Compute Interface for Portability
 - [luau-lang/luau](https://github.com/luau-lang/luau) - A small, fast, and embeddable programming language based on Lua with a gradual type system.
