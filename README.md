@@ -89,6 +89,7 @@
 
 ## C++ 
 
+- [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [OGRECave/ogre](https://github.com/OGRECave/ogre) - high-performance rendering backend (C++, Python, C#, Java)
 - [willtobyte/carimbo](https://github.com/willtobyte/carimbo) - A 2D game engine developed in modern C++ using SDL, an Entity-Component-System (ECS) architecture, miniaudio, and Box2D. It features Lua scripting and is designed for web portability via WebAssembly
