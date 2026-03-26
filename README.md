@@ -457,6 +457,7 @@
 
 ## Rust 
 
+- [JagritGumber/pgrx](https://github.com/JagritGumber/pgrx) - BEAM + Rust PostgreSQL-compatible database. Lightweight, no vacuum, infinite connections.
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [andersonkrs/twig](https://github.com/andersonkrs/twig) - A glamorous tmux session manager with git worktree support.
