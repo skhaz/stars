@@ -498,6 +498,7 @@
 
 ## Swift 
 
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [synth-inc/onit](https://github.com/synth-inc/onit) - Onit MacOS client
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
