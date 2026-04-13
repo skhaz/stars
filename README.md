@@ -138,6 +138,9 @@
 
 ## Go 
 
+- [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
+- [mojatter/s2](https://github.com/mojatter/s2) - Go object storage library and S3-compatible server — a lightweight MinIO alternative
+- [smhanov/llmhub](https://github.com/smhanov/llmhub) - A go package that lets you prompt multiple providers with text & images over a unified, extensivle interface.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
