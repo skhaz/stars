@@ -518,6 +518,7 @@
 
 ## TypeScript 
 
+- [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [kdcokenny/ocx](https://github.com/kdcokenny/ocx) - OpenCode extension manager with portable, isolated profiles. Your setup, anywhere.
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
