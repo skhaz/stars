@@ -139,6 +139,8 @@
 
 ## Go 
 
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
+- [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 - [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) - Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
 - [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
 - [wippyai/go-lua](https://github.com/wippyai/go-lua) - Typesafe Lua for actors
@@ -344,6 +346,7 @@
 
 ## Python 
 
+- [temporalio/sdk-python](https://github.com/temporalio/sdk-python) - Temporal Python SDK
 - [walac/drgn-mcp](https://github.com/walac/drgn-mcp) - 
 - [wilpel/caveman-compression](https://github.com/wilpel/caveman-compression) - Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that defines meaning.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -467,7 +470,7 @@
 
 ## Rust 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 23 services, 1,680 operations, 100% conformance. No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 26 services, 1,924 operations, 100% conformance. No account, no auth token, no paid tier.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
