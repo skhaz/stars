@@ -44,6 +44,7 @@
 
 ## C 
 
+- [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [danalec/DMMSY-SSSP](https://github.com/danalec/DMMSY-SSSP) - Experimental C implementation of “Breaking the Sorting Barrier for Directed Single-Source Shortest Paths” by Ran Duan, Jiayi Mao, Xiao Mao, Xinkai Shu, and Longhui Yin (STOC 2025)
 - [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA compiler targeting multiple GPU architectures. Compiles .cu to AMD and Tenstorrent GPU's
