@@ -141,6 +141,7 @@
 
 ## Go 
 
+- [jeremiah-masters/dlht](https://github.com/jeremiah-masters/dlht) - High-performance, lock-free concurrent hash table in Go, based on DLHT, with cooperative resizing and cache-efficient buckets.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 - [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) - Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
