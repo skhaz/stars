@@ -44,6 +44,7 @@
 
 ## C 
 
+- [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [danalec/DMMSY-SSSP](https://github.com/danalec/DMMSY-SSSP) - Experimental C implementation of “Breaking the Sorting Barrier for Directed Single-Source Shortest Paths” by Ran Duan, Jiayi Mao, Xiao Mao, Xinkai Shu, and Longhui Yin (STOC 2025)
@@ -515,7 +516,7 @@
 
 ## Shell 
 
-- [vinzabe/PERMANENT-opencode-anthropic-oauth-fix](https://github.com/vinzabe/PERMANENT-opencode-anthropic-oauth-fix) - 
+- [vinzabe/PERMANENT-opencode-anthropic-oauth-fix](https://github.com/vinzabe/PERMANENT-opencode-anthropic-oauth-fix) - Drop-in patched dist/index.js for op-anthropic-auth@0.1.1: fixes Anthropic third-party classifier 400s and /messages vs /v1/messages path mismatch in opencode
 - [game-ci/steam-deploy](https://github.com/game-ci/steam-deploy) - Github Action to deploy a game to Steam
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [hiulit/cross-compile-godot-raspberry-pi](https://github.com/hiulit/cross-compile-godot-raspberry-pi) - A script to easily cross-compile Godot binaries for the Raspberry Pi from Linux x86_64 and an extra script to easily transfer the compiled Godot binaries to the Raspberry Pi using rsync
