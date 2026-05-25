@@ -91,6 +91,7 @@
 
 ## C++ 
 
+- [ClickHouse/silk](https://github.com/ClickHouse/silk) - Fast stackful fibers with a NUMA-aware work-stealing scheduler
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [simdutf/simdutf](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension, LoongArch64, POWER. Part of Node.js, WebKit/Safari, Ladybi
 - [mikke89/RmlUi](https://github.com/mikke89/RmlUi) - RmlUi - The HTML/CSS User Interface library evolved
