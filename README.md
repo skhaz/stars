@@ -463,7 +463,7 @@
 - [jsbueno/extradict](https://github.com/jsbueno/extradict) - Collection of Mappings and data structures  with different capabilities and some utilities
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [aio-libs/yarl](https://github.com/aio-libs/yarl) - Yet another URL library
-- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 - [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [GoogleCloudPlatform/serverless-expeditions](https://github.com/GoogleCloudPlatform/serverless-expeditions) - 
@@ -520,7 +520,7 @@
 - [zedless-editor/old-school-zedless](https://github.com/zedless-editor/old-school-zedless) - (old variant) Zed fork focused on privacy and being local-first
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [schpet/envset](https://github.com/schpet/envset) - set values in .env files the fun way
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
