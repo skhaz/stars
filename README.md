@@ -554,6 +554,7 @@
 
 ## Swift 
 
+- [fayazara/bucketdrop](https://github.com/fayazara/bucketdrop) - BucketDrop is a tiny, open-source menu bar app for uploading files to your own S3-compatible storage.  No dashboards. No syncing folders. No vendor lock-in.  Just drop a file and get a shareable URL i
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [synth-inc/onit](https://github.com/synth-inc/onit) - Onit MacOS client
