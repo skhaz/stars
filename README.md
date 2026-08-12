@@ -163,6 +163,7 @@
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [mojatter/s2](https://github.com/mojatter/s2) - Go object storage library and S3-compatible server — a lightweight MinIO alternative
 - [smhanov/llmhub](https://github.com/smhanov/llmhub) - A go package that lets you prompt multiple providers with text & images over a unified, extensivle interface.
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
@@ -296,7 +297,6 @@
 
 - [trinketapp/trinket-oss](https://github.com/trinketapp/trinket-oss) - 
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [holepunchto/pear](https://github.com/holepunchto/pear) - Peer-to-Peer (P2P) Install & Deploy CLI
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
@@ -370,7 +370,7 @@
 
 ## Python 
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [DeepBlueDynamics/grubcrawler](https://github.com/DeepBlueDynamics/grubcrawler) - The world's fastest agentic crawler. Reclaimed. Reinvented. Ready for war.
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
