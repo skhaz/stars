@@ -154,7 +154,6 @@
 - [wippyai/runtime](https://github.com/wippyai/runtime) - Lua/WASM Actor platform
 - [hatchet-dev/durable-execution-the-hard-way](https://github.com/hatchet-dev/durable-execution-the-hard-way) - Set up a durable execution engine from scratch using Postgres with no dependencies.
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
-- [jeremiah-masters/dlht](https://github.com/jeremiah-masters/dlht) - High-performance, lock-free concurrent hash table in Go, based on DLHT, with cooperative resizing and cache-efficient buckets.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 - [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) - Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
@@ -400,7 +399,6 @@
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [TkTech/chancy](https://github.com/TkTech/chancy) - A postgres-backed task queue for Python.
-- [lucemia/typed-ffmpeg](https://github.com/lucemia/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
@@ -583,6 +581,7 @@
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [browser-actions/setup-chrome](https://github.com/browser-actions/setup-chrome) - Set up your GitHub Actions workflow with a specific version of chromium
+- [lucemia/typed-ffmpeg](https://github.com/lucemia/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
