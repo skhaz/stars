@@ -44,6 +44,7 @@
 
 ## C 
 
+- [vixhal-baraiya/microgpt-c](https://github.com/vixhal-baraiya/microgpt-c) - The most atomic way to train and inference a GPT in pure, dependency-free C
 - [losnoco/Cog](https://github.com/losnoco/Cog) - Cog - A Free and Open Source Audio Player for macOS 10.15+
 - [nordstjernen-web/nordstjernen-browser](https://github.com/nordstjernen-web/nordstjernen-browser) - Nordstjernen web browser.
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
@@ -149,6 +150,7 @@
 
 ## Go 
 
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
 - [wippyai/runtime](https://github.com/wippyai/runtime) - Lua/WASM Actor platform
