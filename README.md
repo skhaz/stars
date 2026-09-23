@@ -159,6 +159,7 @@
 
 ## Go 
 
+- [wrr/drop](https://github.com/wrr/drop) - Linux sandboxing that doesn't get in your way
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
 - [pgsty/silo](https://github.com/pgsty/silo) - S3-Compatible Object Storage. A MinIO fork maintained by PGSTY
@@ -383,6 +384,7 @@
 
 ## Python 
 
+- [Amal-David/awesome-jev](https://github.com/Amal-David/awesome-jev) - Jev demos, projects, SDKs and skills, with source links and a curated X gallery.
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - 
 - [mkalioby/django-passkeys](https://github.com/mkalioby/django-passkeys) - Django Authentication Backend For Passkeys
 - [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
