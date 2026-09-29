@@ -169,7 +169,7 @@
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
-- [wippyai/runtime](https://github.com/wippyai/runtime) - Lua/WASM Actor platform for evolutionary software
+- [wippyai/runtime](https://github.com/wippyai/runtime) - Lua/WASM Actor platform
 - [hatchet-dev/durable-execution-the-hard-way](https://github.com/hatchet-dev/durable-execution-the-hard-way) - Set up a durable execution engine from scratch using Postgres with no dependencies.
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
@@ -388,6 +388,7 @@
 
 ## Python 
 
+- [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) - 
 - [Amal-David/awesome-jev](https://github.com/Amal-David/awesome-jev) - Jev demos, projects, SDKs and skills, with source links and a curated X gallery.
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [mkalioby/django-passkeys](https://github.com/mkalioby/django-passkeys) - Django Authentication Backend For Passkeys
@@ -533,7 +534,7 @@
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [ntsc-rs/ntsc-rs](https://github.com/ntsc-rs/ntsc-rs) - Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,508 operations, true 100% Smithy conformance (248,557/248,557 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,509 operations, true 100% Smithy conformance (248,557/248,557 variants pass). No account, no auth token, no paid tier.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
