@@ -52,7 +52,7 @@
 - [kubernetes-client/c](https://github.com/kubernetes-client/c) - Official C client library for Kubernetes
 - [vixhal-baraiya/microgpt-c](https://github.com/vixhal-baraiya/microgpt-c) - The most atomic way to train and inference a GPT in pure, dependency-free C
 - [losnoco/Cog](https://github.com/losnoco/Cog) - Cog - A Free and Open Source Audio Player for macOS 10.15+
-- [nordstjernen-web/nordstjernen-browser](https://github.com/nordstjernen-web/nordstjernen-browser) - Nordstjernen web browser.
+- [nordstjernen-web/nordstjernen-browser](https://github.com/nordstjernen-web/nordstjernen-browser) - Nordstjernen web browser. A open source web browser with dual GPL 3+ or NSL license, written from scratch in 2026.
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
 - [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage
@@ -582,6 +582,7 @@
 
 ## Swift 
 
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 - [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet) - Swiftlet is a Swift and Metal runtime that runs large Qwen Mixture-of-Experts models locally on Apple devices by streaming expert weights from storage, enabling 35B and 80B models to run with low RAM,
 - [fayazara/bucketdrop](https://github.com/fayazara/bucketdrop) - BucketDrop is a tiny, open-source menu bar app for uploading files to your own S3-compatible storage.  No dashboards. No syncing folders. No vendor lock-in.  Just drop a file and get a shareable URL i
