@@ -362,6 +362,7 @@
 
 ## Objective-C 
 
+- [blendbyte/Textual](https://github.com/blendbyte/Textual) - Textual is a native IRC client for macOS
 - [missuo/mist](https://github.com/missuo/mist) - A native macOS application for seamless S3-compatible cloud storage management
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 
