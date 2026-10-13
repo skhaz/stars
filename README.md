@@ -24,7 +24,6 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -46,6 +45,7 @@
 
 ## C 
 
+- [OleksandrChekhovskyi/hax](https://github.com/OleksandrChekhovskyi/hax) - A minimalist, terminal-native coding agent written in C.
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [arqbackup/arq_restore](https://github.com/arqbackup/arq_restore) - command-line utility for restoring from Arq backups
 - [Antares0982/ssrJSON](https://github.com/Antares0982/ssrJSON) - A SIMD boosted high-performance and correct Python JSON parsing library, faster than the fastest.
@@ -99,6 +99,7 @@
 
 - [SvenGDK/OpenBurningSuite](https://github.com/SvenGDK/OpenBurningSuite) - A free, open-source disc burning application for Windows, Linux, and macOS.
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - WinUI app for building smaller, customized Windows 11 images.
 
 ## C++ 
 
@@ -383,14 +384,10 @@
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
-## PowerShell 
-
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
-
 ## Python 
 
 - [beatrizalmeidaf/papero-pdf-text-extractor](https://github.com/beatrizalmeidaf/papero-pdf-text-extractor) - Fast, open-source PDF text extraction API. Files never stored.
-- [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) - 
+- [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) - Contrastive Language Models (CLMs) are a new class of System One model trained with a contrastive learning objective that connects states and actions.
 - [Amal-David/awesome-jev](https://github.com/Amal-David/awesome-jev) - Jev demos, projects, SDKs and skills, with source links and a curated X gallery.
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [mkalioby/django-passkeys](https://github.com/mkalioby/django-passkeys) - Django Authentication Backend For Passkeys
@@ -583,6 +580,7 @@
 
 ## Swift 
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 - [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet) - Swiftlet is a Swift and Metal runtime that runs large Qwen Mixture-of-Experts models locally on Apple devices by streaming expert weights from storage, enabling 35B and 80B models to run with low RAM,
