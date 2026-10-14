@@ -103,6 +103,7 @@
 
 ## C++ 
 
+- [pantor/inja](https://github.com/pantor/inja) - A Template Engine for Modern C++
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [jfalcou/eve](https://github.com/jfalcou/eve) - Expressive Vector Engine - SIMD in C++ Goes Brrrr
 - [lkarlslund/laya.cpp](https://github.com/lkarlslund/laya.cpp) - C++ inference for Laya typed decisions - supports CUDA, Vulkan, Core ML, CPU
@@ -333,7 +334,6 @@
 - [paralleldrive/cuid](https://github.com/paralleldrive/cuid) - Deprecated collision-resistant id spec. Insecure because it leaks timestamps. Use cuid2 instead.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
-- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 
@@ -571,6 +571,7 @@
 
 ## Shell 
 
+- [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) - Aggregated AbuseIPDB blocklists with worst IPv4 & IPv6 offenders (~99% confidence)
 - [nextbsd/nextbsd](https://github.com/nextbsd/nextbsd) - The BSD of the 21st century
 - [gershwin-desktop/gershwin-desktop](https://github.com/gershwin-desktop/gershwin-desktop) - Desktop Environment based on GNUstep welcoming to switchers
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
