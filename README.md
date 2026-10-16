@@ -55,7 +55,7 @@
 - [nordstjernen-web/nordstjernen-browser](https://github.com/nordstjernen-web/nordstjernen-browser) - Nordstjernen web browser. A open source web browser with dual GPL 3+ or NSL license, written from scratch in 2026.
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
-- [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage
+- [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 display that shows you your Claude Code usage
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [danalec/DMMSY-SSSP](https://github.com/danalec/DMMSY-SSSP) - Experimental C implementation of “Breaking the Sorting Barrier for Directed Single-Source Shortest Paths” by Ran Duan, Jiayi Mao, Xiao Mao, Xinkai Shu, and Longhui Yin (STOC 2025)
@@ -103,6 +103,7 @@
 
 ## C++ 
 
+- [emmericp/D2R-3D](https://github.com/emmericp/D2R-3D) - Play Diablo II: Resurrected in 3D.
 - [pantor/inja](https://github.com/pantor/inja) - A Template Engine for Modern C++
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [jfalcou/eve](https://github.com/jfalcou/eve) - Expressive Vector Engine - SIMD in C++ Goes Brrrr
