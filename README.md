@@ -45,6 +45,7 @@
 
 ## C 
 
+- [scarletnx/ScarletNX](https://github.com/scarletnx/ScarletNX) - ARM64 Recompiler
 - [OleksandrChekhovskyi/hax](https://github.com/OleksandrChekhovskyi/hax) - A minimalist, terminal-native coding agent written in C.
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [arqbackup/arq_restore](https://github.com/arqbackup/arq_restore) - command-line utility for restoring from Arq backups
