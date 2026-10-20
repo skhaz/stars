@@ -178,6 +178,7 @@
 - [wippyai/runtime](https://github.com/wippyai/runtime) - Lua/WASM Actor platform
 - [hatchet-dev/durable-execution-the-hard-way](https://github.com/hatchet-dev/durable-execution-the-hard-way) - Set up a durable execution engine from scratch using Postgres with no dependencies.
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
+- [jeremiah-masters/dlht](https://github.com/jeremiah-masters/dlht) - High-performance, lock-free concurrent hash table in Go, based on DLHT, with cooperative resizing and cache-efficient buckets.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 - [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) - 30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
@@ -253,7 +254,7 @@
 - [ionrock/procs](https://github.com/ionrock/procs) - Go exec helpers for better using processes.
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
+- [abahmed/kwatch](https://github.com/abahmed/kwatch) - Kubernetes incidents, explained. kwatch traces every cluster failure back to its root cause and sends one message: what broke, why, who changed it, and what to do next. Source available (ELv2).
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [ohler55/ojg](https://github.com/ohler55/ojg) - Optimized JSON for Go
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
@@ -310,6 +311,7 @@
 
 ## Java 
 
+- [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - All-in-one IoT Platform - Device management, data collection, processing and visualization.
 - [thingsboard/tbmq](https://github.com/thingsboard/tbmq) - The ultimate distributed MQTT broker. Handles 100M+ connections and 10M msg/sec with ease. Built on Kafka to provide industrial-grade persistence and eliminate data loss.
@@ -326,7 +328,7 @@
 - [christian-fei/my-yt](https://github.com/christian-fei/my-yt) - A clean and minimal youtube frontend, without all the ads and whistles
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [HeyPuter/Oops.js](https://github.com/HeyPuter/Oops.js) - 🤭 Oops.js: Add powerful undo/redo capabilities to your app
-- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Progressive enhancement for HTML
+- [unpoly/unpoly](https://github.com/unpoly/unpoly) - The missing application layer for HTML
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -385,7 +387,7 @@
 ## PHP 
 
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 
 ## Python 
 
@@ -529,7 +531,8 @@
 
 ## Rust 
 
-- [AndreiRegiani/omamusic](https://github.com/AndreiRegiani/omamusic) - Minimalist music player for Omarchy, written in Rust.
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
+- [omafellas/omamusic](https://github.com/omafellas/omamusic) - Minimalist local music player optimized for Omarchy Linux written in Rust & GPUI.
 - [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya) - Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.
 - [wickerwaka/PicoROM](https://github.com/wickerwaka/PicoROM) - An RP2040-based ROM emulator
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
@@ -537,7 +540,7 @@
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [ntsc-rs/ntsc-rs](https://github.com/ntsc-rs/ntsc-rs) - Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 106 services, 7,612 operations, true 100% Smithy conformance (257,288/257,288 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 107 services, 7,657 operations, true 100% Smithy conformance (258,545/258,545 variants pass). No account, no auth token, no paid tier.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -575,6 +578,7 @@
 
 ## Shell 
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) - Aggregated AbuseIPDB blocklists with worst IPv4 & IPv6 offenders (~99% confidence)
 - [nextbsd/nextbsd](https://github.com/nextbsd/nextbsd) - The BSD of the 21st century
 - [gershwin-desktop/gershwin-desktop](https://github.com/gershwin-desktop/gershwin-desktop) - Desktop Environment based on GNUstep welcoming to switchers
@@ -606,7 +610,7 @@
 - [AndrewKirkovski/fast-playwright-mcp](https://github.com/AndrewKirkovski/fast-playwright-mcp) - FAST Playwright MCP server
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 - [leodavinci1/kanbots](https://github.com/leodavinci1/kanbots) - Local collaboration interface for working on a kanban board where each task is either a Claude Code or Codex agent.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
